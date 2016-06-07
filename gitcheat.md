@@ -5,4 +5,6 @@
 
 <p>checking HTML compliance
 <br>br tags
-<p>new paragraph. <b>bold text</b> and <i>italics</i> and <u>underline</u>
+<p>new paragraph. <b>bold text</b> and <i>italics</i> and <u>underline</u> and <s>strikethrough</s>
+
+<table><tr><td>testing tables</td><td>cell2</td><td>cell3</td></tr><tr><td cellspacing=3>row2 spacing 3</td></tr></table>
